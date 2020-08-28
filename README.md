@@ -1,4 +1,4 @@
-### Hello there 👋 (General Kenobi)
+# Hello there 👋 (General Kenobi)
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 💼 I’m currently working on school work that is used to advance in school
