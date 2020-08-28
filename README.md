@@ -13,5 +13,4 @@
 - ⚡ Fun fact: While social media is supposed to bring people together, studies have shown that going on social media too much makes people depressed. People become attached to the validation that comes with being popular on social media.
 
 [![JohannesLeppittNTIV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohannesLeppittNTIV&show_icons=true)](https://github.com/JohannesLeppittNTIV)
-
 <img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
