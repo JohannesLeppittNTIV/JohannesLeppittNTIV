@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 - 🔭 I’m currently working on school work that is used to advance in school
-- 🌱 I’m currently learning how to program so I can program
+- 👨‍💻 I’m currently learning how to program so I can program
 - 🏎️ I'm a big fan of cars that go vroooooooooom
 - 🤔 I’m looking for help with restarting the swedish empire
 - 💬 Ask me about the fall of constantinople
