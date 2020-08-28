@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - 🔭 I’m currently working on school work
 - 🌱 I’m currently learning how to program
 - 👯 I’m looking to collaborate on everything
