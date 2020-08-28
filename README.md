@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 🔭 I’m currently working on school work
 - 🌱 I’m currently learning how to program
 - 👯 I’m looking to collaborate on everything
@@ -9,4 +9,4 @@
 - 😄 Pronouns: Attack Helicopter
 - ⚡ Fun fact: While social media is supposed to bring people together, studies have shown that going on Facebook too much makes people depressed. People become attached to the validation that comes with being popular on social media.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
